@@ -19,7 +19,7 @@ In your working directory you need the following files:
 * `merge_two_systems.py`
   * Python script
  
-## Useage
+## Usage
 1 . Decide across what axis you want merge the systems. Set `axis` variable to `0` for $x$, `1` for $y$ or `2` for $z$
 
 2 . Set `gap` variable to the distance between two systems (in angstroms)
