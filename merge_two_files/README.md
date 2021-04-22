@@ -12,6 +12,7 @@ If you want to run the Jupyter notebook you also will need:
 
 ## Inputs
 In your working directory you need the following files:
+
 * `system1.gro`
   * Single configuration in GRO format of the first system
 * `system2.gro`
