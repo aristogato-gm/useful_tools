@@ -3,7 +3,7 @@
 ## About this script
 This python script merge two single frames in GRO format.
 
-## Prerequisites:
+## Pre-requisites:
 You need to install the following libraries:
 * MDAnalysis
 
