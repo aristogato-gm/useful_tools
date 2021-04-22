@@ -13,15 +13,17 @@ If you want to run the Jupyter notebook you also will need:
 ## Inputs
 In your working directory you need the following files:
 * `system1.gro`
- * Single configuration in GRO format of the first system
+  * Single configuration in GRO format of the first system
 * `system2.gro`
- * Single configuration in GRO format of the second system
+  * Single configuration in GRO format of the second system
 * `merge_two_systems.py`
- * Python script
+  * Python script
  
 ## Useage
 1 . Decide across what axis you want merge the systems. Set `axis` variable to `0` for $x$, `1` for $y$ or `2` for $z$
+
 2 . Set `gap` variable to the distance between two systems (in angstroms)
+
 3 . Run the script:
 ```bash
 python3 merge_two_systems.py
