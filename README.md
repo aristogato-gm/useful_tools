@@ -7,5 +7,5 @@ Here there are some scripts for working with molecular dynamics simulations.
     
 
 * `conformers.py`
-	* Calculates the conformer populations from a molecular dynamics simualtions 
+	* Calculates the conformer populations from a molecular dynamics simulations 
     
